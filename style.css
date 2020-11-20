@@ -1,0 +1,44 @@
+body
+{
+	margin:0;
+	padding: 0;
+	animation: bgcolor  10s infinite;
+
+}
+h1{
+	margin:0;
+	padding:0;
+	color:#fff ;
+	font-family:italian;
+	font-size:1cm;
+}
+@keyframes bgcolor{
+0%
+{
+	background: #1abc9c;
+}
+20%
+{
+	background:#3498db ;
+}
+40%
+{
+	background:#9b59b6 ;
+}	
+60%
+{
+	background: #2C3A47;
+}	
+80%
+{
+	background:#fed330 ;
+}	
+100%
+{
+	background:#f53b57 ;
+}	
+110%{
+	background:#B33771 ;
+}	
+
+}
